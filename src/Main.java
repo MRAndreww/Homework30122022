@@ -65,7 +65,7 @@ public class Main {
             case 12:
             case 1:
             case 2:
-                System.out.println("winter");
+                System.out.println("winter!");
                 break;
             case 3:
             case 4:
